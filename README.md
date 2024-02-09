@@ -2,7 +2,7 @@
 
 # Chess
 A two-player Chess game created using SwiftUI with MVVM Architecture. allows users to customize the board and pieces, and play against another player online using Firebase.
-
+<img src="Chess/GameScreen.png">
 # Snake and Ladder 
 A two-player Chess game created using SwiftUI with MVVM Architecture. allows users to customize the board and pieces, and play against another player online using Firebase.
 
