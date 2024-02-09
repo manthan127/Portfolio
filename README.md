@@ -1,7 +1,7 @@
 # Portfolio
 
 # Chess
-A two-player Chess game created using SwiftUI with MVVM Architecture. allows users to customize the board and pieces, and play against another player online using Firebase.
+A two-player Chess game created using SwiftUI with MVVM Architecture. allows users to customize the board and pieces, and play against another player online using Firebase.<br>
 <img src="Chess/SettingsScreen.png">
 <img src="Chess/HomeScreen.png">
 <img src="Chess/GameScreen.png">
